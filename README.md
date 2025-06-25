@@ -32,11 +32,11 @@ To design an interactive Power BI dashboard that analyzes Amazon Prime Video tit
 ## 🧠 Insights Gained
 
 
-📺 **Movies dominate** over TV Shows on Amazon Prime.
-🎭 **Drama** and **Comedy** are the most frequent genres.
-🌍 **USA, India, and UK** are top content-producing countries.
-📅 Most content was released between 2016–2020, showing rapid growth.
-🎬 Wide range of directors, indicating diverse creative input.
+-📺 **Movies dominate** over TV Shows on Amazon Prime.
+-🎭 **Drama** and **Comedy** are the most frequent genres.
+-🌍 **USA, India, and UK** are top content-producing countries.
+-📅 Most content was released between 2016–2020, showing rapid growth.
+-🎬 Wide range of directors, indicating diverse creative input.
 
 ---
 
