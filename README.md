@@ -1,7 +1,5 @@
 # Power-BI-Amazon-Prime-Video-Dashboard
 
-
-
 ---
 
 ## 🎯 Objective
