@@ -13,7 +13,7 @@ To design an interactive Power BI dashboard that analyzes Amazon Prime Video tit
 
 - 🔢 **Total Titles and Total Ratings**
 - 🎭 **Distinct Genres and Directors Count**
-- 📅 **Start Date, End Date with Min, Max, and Average**
+- 📅 **Start Date, End Date**
 - 📊 **Rating by Total Shows** *(Stacked Bar Chart)*
 - 📊 **Genres by Total Shows** *(Stacked Bar Chart)*
 - 🗺️ **Total Shows by Country** *(Map Visualization)*
@@ -26,7 +26,7 @@ To design an interactive Power BI dashboard that analyzes Amazon Prime Video tit
 ## 📂 Dataset Source
 
 **Kaggle Dataset**:  
-[Chocolate Sales Dataset]()
+[Amazon Prime Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
 ---
 ## 🧠 Insights Gained
