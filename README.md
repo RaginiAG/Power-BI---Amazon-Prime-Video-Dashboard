@@ -42,10 +42,9 @@ To design an interactive Power BI dashboard that analyzes Amazon Prime Video tit
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/RaginiAG/Power-BI-Amazon-Prime-Video-Dashboard/blob/main/Amazon_Prime_Video.png)
 
 ---
-
 
 ## 🔧 Tools Used
 
